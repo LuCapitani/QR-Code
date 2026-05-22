@@ -1,28 +1,36 @@
 # QR Code Component - Frontend Mentor
 
-A clean and centered QR code card built with HTML and CSS to practice flexbox, semantic structure, and professional workflow.
-
 ---
 
 ![Design preview for QR Code challenge](/assets/image/qr-code-desktop.png)
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+  - [Challenge](#challenge)
+  - [Screenshot](#screenshot)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
 - [Author](#author)
 
 ---
 
 ## Overview
 
-### Screenshots
+### Challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size (mobile and desktop)
+- See a clean and centered QR code card
+- View the card with proper spacing, typography, and border-radius
+
+---
+
+### Screenshot
 
 **Desktop Version**
 
@@ -34,44 +42,53 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Design preview for QR Code mobile](/assets/image/qr-code-mobile.png)
 
+---
+
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/LuCapitani/QR-Code)
-- Live Site URL: [QR Code Live Demo](https://lucapitani.github.io/QR-Code/)
+- **Solution URL:** https://github.com/LuCapitani/QR-Code
+- **Site URL:** https://lucapitani.github.io/QR-Code/
 
 ---
 
-## My process
+## My Process
 
-### Built with
+### Built With
 
-- Semantic HTML5 markup
-- CSS custom properties (CSS Variables)
-- Flexbox
+- Semantic HTML5
+- CSS (Flexbox / Responsive Design)
 - Mobile-first workflow
+- CSS custom properties (variables)
 - Google Fonts (Outfit)
 
-### What I learned
+---
 
-Since I was already familiar with the technical requirements, my focus for this project was on **professional workflow** and **design fidelity**.
+### What I Learned
 
-Key points reinforced:
+- Centering content vertically and horizontally using Flexbox with `min-height: 100vh`
+- Using CSS custom properties in `:root` for maintainable styles
+- Creating a responsive card layout that works on both mobile and desktop
+- Implementing a design strictly following a `style-guide.md`
+- Applying industry-standard naming conventions for classes and variables
 
-- **Design-to-Code Precision:** Implementing a project strictly following a `style-guide.md` to ensure the final result matches the original prototype.
-- **Maintainable CSS:** Using CSS variables (`:root`) for better scalability and easier theme management.
-- **Industry Standards:** Applying English naming conventions for classes and variables, following global development patterns.
-- **Responsive Centering:** Using `flexbox` with `min-height: 100vh` to perfectly center content on any screen size.
+---
 
+### Continued Development
+
+- Add `:focus-visible` for better keyboard accessibility
+- Refactor CSS for better maintainability
+- Experiment with CSS Grid for future layouts
+- Improve accessibility with ARIA attributes
 
 ---
 
 ## Author
 
-- Frontend Mentor - [@LuCapitani](https://www.frontendmentor.io/profile/LuCapitani)
-- GitHub - [@LuCapitani](https://github.com/LuCapitani)
+- GitHub: [LuCapitani](https://github.com/LuCapitani)
+- Frontend Mentor: [LuCapitani](https://www.frontendmentor.io/profile/LuCapitani)
 
 ---
 
 ## Acknowledgments
 
-Thanks to Frontend Mentor for providing this challenge and helping me improve my frontend development skills.
+Thanks to Frontend Mentor for providing real-world design challenges and to the community for inspiration and feedback.
