@@ -2,7 +2,7 @@
 
 ---
 
-![Design preview for QR Code challenge](/assets/image/qr-code-desktop.png)
+![Design preview for QR Code challenge](\assets\images\qr-code-desktop.png)
 
 ## Table of Contents
 
@@ -34,13 +34,13 @@ Users should be able to:
 
 **Desktop Version**
 
-![Design preview for QR Code desktop](/assets/image/qr-code-desktop.png)
+![Design preview for QR Code desktop](\assets\images\qr-code-desktop.png)
 
 ---
 
 **Mobile Version**
 
-![Design preview for QR Code mobile](/assets/image/qr-code-mobile.png)
+![Design preview for QR Code mobile](\assets\images\qr-code-mobile.png)
 
 ---
 
