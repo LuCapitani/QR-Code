@@ -2,7 +2,7 @@
 
 ---
 
-![Design preview for QR Code challenge](\assets\images\qr-code-desktop.png)
+![Design preview for QR Code challenge](/assets/images/qr-code-desktop.png)
 
 ## Table of Contents
 
@@ -34,13 +34,13 @@ Users should be able to:
 
 **Desktop Version**
 
-![Design preview for QR Code desktop](\assets\images\qr-code-desktop.png)
+![Design preview for QR Code desktop](/assets/images/qr-code-desktop.png)
 
 ---
 
 **Mobile Version**
 
-![Design preview for QR Code mobile](\assets\images\qr-code-mobile.png)
+![Design preview for QR Code mobile](/assets/images/qr-code-mobile.png)
 
 ---
 
@@ -69,7 +69,6 @@ Users should be able to:
 - Using CSS custom properties in `:root` for maintainable styles
 - Creating a responsive card layout that works on both mobile and desktop
 - Implementing a design strictly following a `style-guide.md`
-- Applying industry-standard naming conventions for classes and variables
 
 ---
 
@@ -78,7 +77,6 @@ Users should be able to:
 - Add `:focus-visible` for better keyboard accessibility
 - Refactor CSS for better maintainability
 - Experiment with CSS Grid for future layouts
-- Improve accessibility with ARIA attributes
 
 ---
 
